@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=641CD7&background=F2FF7029&width=435&lines=%F0%9F%91%8B+Hi%2C+my+name+is+Maria!;I'm+a+beginner+Python+developer!)](https://git.io/typing-svg)
+
 ### Hi there 👋, my name is Maria! <br/> I'm a beginner Python developer!
 - 🌱 I’m currently learning Python, HTML, SQL. 
 - 🧐 I have [some projects](https://github.com/mawuta-super-hack?tab=repositories) on Django, I also want to explore other frameworks: Aiohttp, FastAPI.
