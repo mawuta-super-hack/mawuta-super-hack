@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Maria! <br/> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=06020D&background=F2FF7000&width=435&lines=I'm+a+beginner+Python+developer!)](https://git.io/typing-svg)
 
-I'm a beginner Python developer!
+
 - 🌱 I’m currently learning Python, HTML, SQL. 
 - 🧐 I have [some projects](https://github.com/mawuta-super-hack?tab=repositories) on Django, I also want to explore other frameworks: Aiohttp, FastAPI.
 - 📫 How to reach me: <br/>
@@ -23,6 +23,9 @@ I'm a beginner Python developer!
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mawuta-super-hack)](https://git.io/streak-stats) <br/>  <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mawuta-super-hack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mawuta-super-hack/mawuta-super-hack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
