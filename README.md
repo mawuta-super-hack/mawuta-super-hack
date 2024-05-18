@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=06020D&background=F2FF7000&width=435&lines=I'm+a+beginner+Python+developer!)](https://git.io/typing-svg)
 
 
-- 🌱 I’m currently learning Python, object-oriented programming, Unittest и TDD, asynchronous programming etc.
-- 🧐 I have [some projects](https://github.com/mawuta-super-hack?tab=repositories) on Django, I also want to explore other frameworks: Aiohttp, FastAPI.
+- 🌱 I’m currently learning Python, object-oriented programming, asynchronous programming etc.
+- 🧐 I have [some projects](https://github.com/mawuta-super-hack?tab=repositories) on Django and FastAPI.
 - 📫 How to reach me: <br/>
         my email: [mclimenkova@yandex.ru](mclimenkova@yandex.ru) <br/>
         my telegram: [@crazypr0g](https://t.me/crazypr0g) <br/>
